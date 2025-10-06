@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+
 body{
     background-color: black;
     color: white;
+    font-family: "Gravitas One", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
