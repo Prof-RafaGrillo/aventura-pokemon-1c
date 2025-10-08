@@ -7,8 +7,17 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 800px;
+    margin: 0;
+}
+
+button{
+    background-color: #64A712;
+    color: white;
+    padding: 20px;
 }
 
 .img01{
     width: 110%;
 }
+
